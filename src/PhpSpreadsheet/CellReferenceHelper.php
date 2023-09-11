@@ -10,7 +10,7 @@ class CellReferenceHelper
     /**
      * @var string
      */
-    protected $beforeCellAddress;
+    protected $beforeCellAddress; // superfluous comment
 
     /**
      * @var int
